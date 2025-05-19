@@ -1,0 +1,13 @@
+Welcome to Testfile.txt!
+
+This file contain some line of integers
+
+Each of the following lines contains 2 integers corresponding to the length and width of each rectangle
+
+4 5
+
+7 8
+
+9 13
+
+7 18
